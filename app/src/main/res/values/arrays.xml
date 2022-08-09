@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nameNotes">
+        <item>Заметка1</item>
+        <item>Заметка2</item>
+        <item>Заметка3</item>
+        <item>Заметка4</item>
+        <item>Заметка5</item>
+    </string-array>
+    
+    <integer-array name="Notes">
+        <item>@string/numberNotes1</item>
+        <item>@string/numberNotes2</item>
+        <item>@string/numberNotes3</item>
+        <item>@string/numberNotes4</item>
+        <item>@string/numberNotes5</item>
+    </integer-array>
+</resources>

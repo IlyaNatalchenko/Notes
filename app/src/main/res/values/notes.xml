@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="numberNotes1">
+        текст заметки1: \n
+        дата создания:
+    </string>
+
+    <string name="numberNotes2">
+        текст заметки2: \n
+        дата создания:
+    </string>
+
+    <string name="numberNotes3">
+        текст заметки3: \n
+        дата создания:
+    </string>
+
+    <string name="numberNotes4">
+        текст заметки4: \n
+        дата создания:
+    </string>
+
+    <string name="numberNotes5">
+        текст заметки5: \n
+        дата создания:
+    </string>
+</resources>
